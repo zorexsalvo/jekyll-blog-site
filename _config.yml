@@ -1,0 +1,22 @@
+name: Zorex Salvo
+bio: I code in Python.
+
+external-image: false
+picture: assets/images/profile.jpg
+
+url: http://zorexsalvo.github.io
+permalink: /:title/
+
+facebook: zorexsalvo
+twitter: zorexsalvo
+github: zorexsalvo
+email: zorexsalvo@gmail.com
+
+width: normal
+
+gems:
+  - jekyll-seo-tag
+  - jekyll-gist
+
+jekyll-mentions:
+    base_url: https://github.com
