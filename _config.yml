@@ -1,22 +1,37 @@
-name: Zorex Salvo
-bio: I code in Python.
+# Site settings
+title: Zorex Salvo
+description: 'Junior Developer'
+url: 'http://zorexsalvo.github.io'
+baseurl: '/'
 
-external-image: false
-picture: assets/images/profile.jpg
+author:
+  name: 'Zorex Salvo'
+  email: zorexsalvo@gmail.com
+  twitter_username: zorexsalvo
+  facebook_username: zorexsalvo
+  github_username:  zorexsalvo
+  linkedin_username: zorex-salvo-67b486119
 
-url: http://zorexsalvo.github.io
-permalink: /:title/
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+        layout: 'post'
 
-facebook: zorexsalvo
-twitter: zorexsalvo
-github: zorexsalvo
-email: zorexsalvo@gmail.com
+# Build settings
+destination: _site
+paginate: 10
+permalink: /:year/:title/
+markdown: kramdown
+highlighter: rouge
 
-width: normal
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
 
-gems:
-  - jekyll-seo-tag
-  - jekyll-gist
-
-jekyll-mentions:
-    base_url: https://github.com
+gems: ['jekyll-paginate']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']

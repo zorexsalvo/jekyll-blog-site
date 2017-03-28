@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zorex Salvo</title>
+    <description>Junior Developer</description>
+    <link>http://zorexsalvo.github.io//</link>
+    <atom:link href="http://zorexsalvo.github.io//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 28 Mar 2017 10:55:56 +0800</pubDate>
+    <lastBuildDate>Tue, 28 Mar 2017 10:55:56 +0800</lastBuildDate>
+    <generator>Jekyll v3.0.2</generator>
+    
+      <item>
+        <title>Zorex Salvo, Junior Developer</title>
+        <description>&lt;p&gt;I’m from the Philippines.&lt;/p&gt;
+
+&lt;p&gt;I have been coding professionally for a year now.&lt;/p&gt;
+
+&lt;p&gt;I am using Python/Django for most of the projects that I am doing.&lt;/p&gt;
+
+&lt;p&gt;Being an intern-to-working in a startup company, sparked the fire in me on being a developer.&lt;/p&gt;
+
+&lt;p&gt;We got to try everything full-stack. Though I am still digesting slowly all the knowledge that I am getting.&lt;/p&gt;
+
+&lt;p&gt;Before I went here, I was really empty-headed: no idea of bootsrap, frameworks.&lt;/p&gt;
+
+&lt;p&gt;So now, to get back all the time and knowledge that I have lost and wasted being in college, I get back to studying all the fundamentals.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 28 Mar 2017 00:00:00 +0800</pubDate>
+        <link>http://zorexsalvo.github.io//2017/zorex-salvo-junior-developer/</link>
+        <guid isPermaLink="true">http://zorexsalvo.github.io//2017/zorex-salvo-junior-developer/</guid>
+        
+        <category>introduction</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
