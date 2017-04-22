@@ -30,4 +30,3 @@ The summit took place on Marriot Hotel in Pasay. Even though the registration st
 
 ### The end
 ![Finish](/images/aws/finish.jpg)
-![Laptop](/images/aws/laptop.jpg)
