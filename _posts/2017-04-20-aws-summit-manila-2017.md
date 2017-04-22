@@ -5,10 +5,7 @@ description:
 cover_image: https://daveden.files.wordpress.com/2013/02/linux_cat.jpg
 tags: aws, summit, manila
 ---
-I received an unexpected email around first week of February saying that the registration for AWS Summit Manila 2017 was then open.
-
 ### Registration
-The summit took place on Marriot Hotel in Pasay. Even though the registration started at 7:30am I got there at around 6am for the early-bird giveaways.
 ![Registration 1](/images/aws/registration2.jpg)
 
 ### Freebies
