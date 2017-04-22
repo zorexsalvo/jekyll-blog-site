@@ -20,3 +20,6 @@ Being exposed in the startup culture, I became fascinated with the whole tech co
 
 
 I attended hackathons, meetups, and summits since then.
+
+
+Being a developer in a startup is both exciting and challenging. We got to try a lot of modern and trending technologies what we referred to as our *new toys*. But in exchange we have a lot of things to study. We have to be full-stack.
