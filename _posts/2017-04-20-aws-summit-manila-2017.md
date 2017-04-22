@@ -12,9 +12,9 @@ The summit took place on Marriot Hotel in Pasay. Even though the registration st
 ![Registration 1](/images/aws/registration2.jpg)
 
 ### Freebies
-Yey Freebies!
 ![Freebies](/images/aws/freebies.jpg)
-Got my passport for the booths.
+
+### Booth Passport
 ![Passport](/images/aws/passport.jpg)
 
 ### Exhibition
