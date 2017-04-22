@@ -5,7 +5,7 @@ description:
 cover_image: https://daveden.files.wordpress.com/2013/02/linux_cat.jpg
 tags: aws, summit, manila
 ---
-It all started with an unexpected email saying that I was invited to attend the AWS Summit Manila 2017.
+It all started with an unexpected email saying that I was invited to attend the AWS Summit Manila 2017. I grab that opportunity and I registered immediately.
 
 ### Registration
 ![Registration 1](/images/aws/registration2.jpg)
