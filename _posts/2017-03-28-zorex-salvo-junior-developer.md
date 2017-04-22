@@ -13,7 +13,10 @@ I'm from the Philippines.
 I have been coding professionally for a year now.
 
 
-I am using Python/Django for most of the projects that I am doing.
+I am a developer in a startup company and I am using Python/Django for most of the projects that I am doing.
 
 
 Being exposed in the startup culture, I became fascinated with the whole tech community.
+
+
+I attended hackathons, meetups, and summits since then.
