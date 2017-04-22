@@ -5,7 +5,7 @@ description:
 cover_image: https://daveden.files.wordpress.com/2013/02/linux_cat.jpg
 tags: introduction
 ---
->This was originally posted on [dev.to](https://dev.to/zorexsalvo/zorex-salvo-junior-developer) as my introduction to the dev.to community.
+*This was originally posted on [dev.to](https://dev.to/zorexsalvo/zorex-salvo-junior-developer) as my introduction to the dev.to community.*
 
 I'm from the Philippines.
 
