@@ -5,6 +5,8 @@ description:
 cover_image: https://daveden.files.wordpress.com/2013/02/linux_cat.jpg
 tags: aws, summit, manila
 ---
+AWS Summit Manila is just one leg of AWS Global Summit that promotes Amazon Web Services. Their goal is to educate both new and existing customers around the world to be more successful with AWS.
+
 ### Registration
 ![Registration 1](/images/aws/registration2.jpg)
 
