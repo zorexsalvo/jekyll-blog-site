@@ -48,4 +48,5 @@ AWS Summit had two tracks for their breakout sessions. There are Business Transf
 ### The End
 
 I completed my passport just before the summit ended and proceeded immediately to the redemption counter, sadly I didn't get the grand prize. What I got instead was the knowledge, the fun, the experience, the happy tummy, the freebies and the stickers provided by this one-day summit.
+
 <img src="/images/aws/finish.jpg" width="316px" alt="Finish">
