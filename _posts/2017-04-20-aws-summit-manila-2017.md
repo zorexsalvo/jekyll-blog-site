@@ -26,4 +26,5 @@ AWS Summit Manila is just one leg of AWS Global Summit that promotes Amazon Web 
 <img src="/images/aws/aws1.jpg" width="316px" alt="Cloud2">
 
 ### The end
-![Finish](/images/aws/finish.jpg)
+<img src="/images/aws/finish.jpg" width="316px" alt="Finish">
+<img src="/images/aws/laptop.jpg" width="316px" alt="Laptop">
