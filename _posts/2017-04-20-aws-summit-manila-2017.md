@@ -8,22 +8,22 @@ tags: aws, summit, manila
 AWS Summit Manila is just one leg of AWS Global Summit that promotes Amazon Web Services. Their goal is to educate both new and existing customers around the world to be more successful with AWS.
 
 ### Registration
-<img src="/images/aws/registration2.jpg" width="840px" alt="Registration1">
+<img src="/images/aws/registration2.jpg" width="640px" alt="Registration1">
 
 ### Freebies & AWS Passport
-<img src="/images/aws/freebies.jpg" width="310px" alt="Freebies">
-<img src="/images/aws/passport.jpg" width="310px" alt="Passport">
+<img src="/images/aws/freebies.jpg" width="320px" alt="Freebies">
+<img src="/images/aws/passport.jpg" width="320px" alt="Passport">
 
 ### Booths Exhibition
 <img src="/images/aws/booths.jpg" width="840px" alt="Booths">
 
 ### Lunch Time
-<img src="/images/aws/lunch.jpg" width="840px" alt="Lunch">
+<img src="/images/aws/lunch.jpg" width="640px" alt="Lunch">
 
 ### Innovating on the cloud
-<img src="/images/aws/cloud.png" width="840px" alt="Cloud1">
-<img src="/images/aws/automating-compiance.jpg" width="420px" alt="Cloud1">
-<img src="/images/aws/aws1.jpg" width="420px" alt="Cloud2">
+<img src="/images/aws/cloud.png" width="640px" alt="Cloud1">
+<img src="/images/aws/automating-compiance.jpg" width="320px" alt="Cloud1">
+<img src="/images/aws/aws1.jpg" width="320px" alt="Cloud2">
 
 ### The end
 ![Finish](/images/aws/finish.jpg)
