@@ -11,8 +11,8 @@ AWS Summit Manila is just one leg of AWS Global Summit that promotes Amazon Web 
 <img src="/images/aws/registration2.jpg" width="840px" alt="Registration1">
 
 ### Freebies & AWS Passport
-<img src="/images/aws/freebies.jpg" width="300px" alt="Freebies">
-<img src="/images/aws/passport.jpg" width="300px" alt="Passport">
+<img src="/images/aws/freebies.jpg" width="310px" alt="Freebies">
+<img src="/images/aws/passport.jpg" width="310px" alt="Passport">
 
 ### Booths Exhibition
 <img src="/images/aws/booths.jpg" width="840px" alt="Booths">
