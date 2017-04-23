@@ -8,6 +8,9 @@ tags: aws, summit, manila
 AWS Summit Manila is just one leg of AWS Global Summit that promotes Amazon Web Services. Their goal is to educate both new and existing customers around the world to be more successful with AWS.
 
 ### Registration
+
+An hour before the registration desk opened, the venue was already full-packed. There was already a queue for the early-birds. I was lucky to be one of the first 100 delegates because FREE AWS SHIRT YAY! AWS Summit Manila surely received an overwhelming response from their invitation. 
+
 <img src="/images/aws/registration2.jpg" width="636px" alt="Registration1">
 
 ### Freebies & AWS Passport
@@ -27,4 +30,3 @@ AWS Summit Manila is just one leg of AWS Global Summit that promotes Amazon Web 
 
 ### The end
 <img src="/images/aws/finish.jpg" width="316px" alt="Finish">
-<img src="/images/aws/laptop.jpg" width="316px" alt="Laptop">
