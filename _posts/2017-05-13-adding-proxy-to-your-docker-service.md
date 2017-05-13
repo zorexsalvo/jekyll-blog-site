@@ -8,13 +8,13 @@ tags: docker, networking, note
 
 <img src="https://www.docker.com/sites/default/files/social/docker-facebook-share.png" width="632px" alt="Docker">
 
-Have you experienced slow docker build even though your machine is on a network proxy?
+Have you ve\\ever experienced slow docker build even though your machine is on a network proxy?
 
 Me? always.
 
-This idea came from one of our interns. At first, what he did was to add environment variables inside his Dockerfile.
+Then this idea came from one of our interns. At first, what he did was to add environment variables inside his Dockerfile.
 
-Seems a bright idea huh? but it is not a good one really because his image can be built only __IF___ he is in our office network.
+Seems a bright idea huh? but it is not a good one really because his image can be built only __IF__ he is in our office network.
 
 There came a problem where he did not know what went wrong with his build on docker hub because "It ran on local machine". The problem was the http_proxy cannot be resolved by docker hub.
 
