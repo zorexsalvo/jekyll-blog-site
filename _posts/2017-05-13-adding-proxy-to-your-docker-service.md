@@ -8,7 +8,7 @@ tags: docker, networking, note
 
 <img src="https://www.docker.com/sites/default/files/social/docker-facebook-share.png" width="632px" alt="Docker">
 
-Have you ve\\ever experienced slow docker build even though your machine is on a network proxy?
+Have you ever experienced slow docker build even though your machine is on a network proxy?
 
 Me? always.
 
