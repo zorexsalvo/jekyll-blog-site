@@ -12,7 +12,7 @@ Me? always.
 
 This idea came from one of our interns. At first, what he did was to add environment variables inside his Dockerfile.
 
-Seems a bright idea huh? but it is not a good one really because his image can be build only IF he is in our office network.
+Seems a bright idea huh? but it is not a good one really because his image can be built only IF he is in our office network.
 
 There came a problem where he did not know what went wrong with his build on docker hub because "It ran on his machine".
 
@@ -23,7 +23,9 @@ Then he came up with another idea, what if we add the proxy on the docker itself
 Here's how to do that:
 
 First, create a systemd drop in directory
-`mkdir /etc/systemd/system/docker.service.d/`
+```
+mkdir /etc/systemd/system/docker.service.d/
+```
 
 Then, create http-proxy.conf
 ```
@@ -36,9 +38,13 @@ Environment="NO_PROXY=localhost,127.0.0.0/8"
 
 ```
 Then, Flush Changes by doing:
-`sudo systemctl daemon-reload`
+```
+sudo systemctl daemon-reload
+```
 
 And lastly, Restart Docker
-`sudo systemctl restart docker`
+```
+sudo systemctl restart docker
+```
 
 And pooof, notice the changes in your docker build!
