@@ -6,6 +6,8 @@ tags: docker, networking, note
 ---
 *This is only a personal note for my docker service configuration in office network proxy.*
 
+<img src="https://www.docker.com/sites/default/files/social/docker-facebook-share.png" width="632px" alt="Docker">
+
 Have you experienced slow docker build even though your machine is on a network proxy?
 
 Me? always.
