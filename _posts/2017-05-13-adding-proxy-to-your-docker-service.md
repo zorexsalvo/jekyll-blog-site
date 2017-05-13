@@ -12,13 +12,13 @@ Me? always.
 
 This idea came from one of our interns. At first, what he did was to add environment variables inside his Dockerfile.
 
-Seems a bright idea huh? but it is not a good one really because his image can be built only IF he is in our office network.
+Seems a bright idea huh? but it is not a good one really because his image can be built only __IF___ he is in our office network.
 
-There came a problem where he did not know what went wrong with his build on docker hub because "It ran on his machine".
+There came a problem where he did not know what went wrong with his build on docker hub because "It ran on local machine". The problem was the http_proxy cannot be resolved by docker hub.
 
 Thats the exact opposite of the Build, Ship, and Run Any App, Anywhere catchphrase of Docker. It didn't even pass the build part kekeke.
 
-Then he came up with another idea, what if we add the proxy on the docker itself. That is a great idea!
+Then another idea came up, what if we add the proxy on the docker itself so that we do not have to specify the environment variable `HTTP_PROXY` to the Dockerfile. That is a great idea!
 
 Here's how to do that:
 
@@ -46,5 +46,6 @@ And lastly, Restart Docker
 ```
 sudo systemctl restart docker
 ```
+To check if the environment variable is really added on your docker service, do `docker info`.
 
-And pooof, notice the changes in your docker build!
+And pooof, notice the change in speed in your docker build!
