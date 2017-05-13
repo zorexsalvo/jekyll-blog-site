@@ -2,7 +2,7 @@
 title: Adding Proxy to Your Docker Service
 published: true
 description: 
-tags: docker, networking, personal notes
+tags: docker, networking, note
 ---
 *This is only a personal note for my docker service configuration in office network proxy.*
 
